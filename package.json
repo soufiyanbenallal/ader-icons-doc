@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@adersolutions/icons": "^1.0.0",
+    "@adersolutions/icons": "^1.0.2",
     "vite-svg-loader": "^5.1.0",
     "vue": "^3.5.13"
   },

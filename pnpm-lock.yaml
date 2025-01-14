@@ -1,7 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@adersolutions/icons': ^1.0.0
+  '@adersolutions/icons': ^1.0.2
   '@vitejs/plugin-vue': ^5.2.1
   autoprefixer: ^10.4.20
   postcss: ^8.5.1
@@ -11,7 +11,7 @@ specifiers:
   vue: ^3.5.13
 
 dependencies:
-  '@adersolutions/icons': 1.0.0
+  '@adersolutions/icons': 1.0.2
   vite-svg-loader: 5.1.0_vue@3.5.13
   vue: 3.5.13
 
@@ -24,8 +24,8 @@ devDependencies:
 
 packages:
 
-  /@adersolutions/icons/1.0.0:
-    resolution: {integrity: sha512-FdTXbKWWJEH17SgC3miE/lsUe3Pux8ySZr//+ZT9OdhU2IXwb1drFzEReiwRrsbPtFvd0XoJXI1++WRUdeEELg==}
+  /@adersolutions/icons/1.0.2:
+    resolution: {integrity: sha512-rrOBzK4YUnai0uwJY/yea5XyOSkm3c8+BU2DcrqHF/uXcSXqgZMcK7skPq6rVX/F84GRZVurBxWJ6VTLkysubQ==}
     dev: false
 
   /@alloc/quick-lru/5.2.0:
